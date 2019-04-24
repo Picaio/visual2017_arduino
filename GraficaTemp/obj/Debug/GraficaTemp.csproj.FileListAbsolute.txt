@@ -1,0 +1,10 @@
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\bin\Debug\GraficaTemp.exe.config
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\bin\Debug\GraficaTemp.exe
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\bin\Debug\GraficaTemp.pdb
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.csprojAssemblyReference.cache
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.Temperatura.resources
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.Properties.Resources.resources
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.csproj.GenerateResource.cache
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.csproj.CoreCompileInputs.cache
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.exe
+E:\Proyectos Visual Studio\GraficaTemp\GraficaTemp\obj\Debug\GraficaTemp.pdb
